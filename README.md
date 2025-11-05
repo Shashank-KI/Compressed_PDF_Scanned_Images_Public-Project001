@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="Kien consultants Brand logo small.png" alt="Kien Consultants Logo" width="100">
+  <img src="Kien%20consultants%20Brand%20logo.png" alt="Kien Consultants Logo" width="100">
 </p>
 
 <h1 align="center">📄 PDF Compressor by Kien Consultants</h1>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🏢 About the Project
+## About the Project
 
 **PDF Compressor by Kien Consultants** is designed to optimize bulky scanned PDFs while maintaining readable quality.  
 The application provides:
@@ -23,25 +23,23 @@ This is part of Kien Consultants’ workflow optimization and automation suite, 
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧩 **Single File / Batch Mode** — compress individual PDFs or entire folders
-- ⚙️ **Adjustable DPI & JPEG Quality** — fine-tune visual fidelity vs. size
-- 💼 **GUI Interface** — powered by PySimpleGUI, no command line needed
-- 📦 **Standalone EXE** — can be distributed to end users easily
-- 🖼️ **Branded Interface** — teal-charcoal design with Kien Consultants monogram
+-  **Single File / Batch Mode** — compress individual PDFs or entire folders
+-  **Adjustable DPI & JPEG Quality** — fine-tune visual fidelity vs. size
+-  **GUI Interface** — powered by PySimpleGUI, no command line needed
+-  **Standalone EXE** — can be distributed to end users easily
+-  **Branded Interface** — teal-charcoal design with Kien Consultants monogram
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 📋 Prerequisites
+### Prerequisites
 Make sure you have:
 - Python 3.9+  
-- `pip` installed  
-- (Optional) Virtual environment set up  
-
-### ⚙️ Installation
+- `pip` install PyMuPDF, PYsimpleGUI, Pillow
+-  After this you can simply run the Script  
 
 Clone this repository:
 ```bash

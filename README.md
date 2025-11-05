@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="KIEN_LOGO_SMALL.png" alt="Kien Consultants Logo" width="100">
+  <img src="Kien consultants Brand logo small.png" alt="Kien Consultants Logo" width="100">
 </p>
 
 <h1 align="center">📄 PDF Compressor by Kien Consultants</h1>
